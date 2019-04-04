@@ -1,0 +1,7 @@
+{
+    "name": "zyYr97/bracket",
+    "description": "Тестовое задание",
+    "require": {
+        "php": "^7.1"
+    }
+}
